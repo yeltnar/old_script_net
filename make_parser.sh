@@ -35,13 +35,9 @@ echo " "
  cd ..
  echo " "
  
- cat $app_name".ts"
+ cat "package.json"
 
  echo " "
-
-
-
-
 
 # clearn up for testing
 # cd ..

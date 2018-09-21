@@ -1,0 +1,10 @@
+{
+  "name": "starter_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "starter_files.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Brantley"
+}
